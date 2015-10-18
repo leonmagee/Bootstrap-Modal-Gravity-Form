@@ -1,4 +1,4 @@
-# Bootstrap-Modal-Gravity-Form
+# Bootstrap Modal Gravity Form
 
 A simple function to output a bootstrap modal with a gravity form embedded
 
